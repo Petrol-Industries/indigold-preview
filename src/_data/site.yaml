@@ -1,0 +1,13 @@
+brand:
+  name: "Indigold"
+  tagline: "Crafted · The Wardrobe That Fits"
+
+access:
+  enabled: true
+  password: "Indigoldss27"
+
+footer:
+  description: "Premium casual essentials for the modern man — timeless tailoring, natural fabrics, and quiet confidence, from a Dutch brand with European know-how."
+  countries: "A Dutch brand built for European retail — market rollout details available on request from your account manager."
+  legal: "© 2026 Indigold. B2B season preview — internal use."
+  legal_right: "The Wardrobe That Fits · indigoldcrafted.com"
