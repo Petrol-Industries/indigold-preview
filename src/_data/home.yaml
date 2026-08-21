@@ -1,112 +1,106 @@
 hero:
-  season_label: "Fall | Winter 2026 — B2B Preview"
-  heading_line1: "The Wardrobe"
-  heading_line2: "That Fits."
-  lede: "Refined clothing that never needs to shout, yet stands out through quality, simplicity, and sophistication."
-  image: "assets/img/hero_park.jpg"
-  image_alt: "Indigold FW26 campaign, model seen from behind wearing a graphic tee in a city park"
-
+  season_label: Fall | Winter 2026 — B2B Preview
+  heading_line1: The Wardrobe
+  heading_line2: That Fits.
+  lede: Refined clothing that never needs to shout, yet stands out through quality, simplicity, and sophistication.
+  image: assets/img/hero_park.jpg
+  image_alt: Indigold FW26 campaign, model seen from behind wearing a graphic tee in a city park
 marquee:
-  - "Masculine"
-  - "Urban"
-  - "Sophisticated"
-  - "Sustainable"
-  - "Simplicity"
-  - "Quality"
-
+  - Masculine
+  - Urban
+  - Sophisticated
+  - Sustainable
+  - Simplicity
+  - Quality
 dna:
-  eyebrow: "Our DNA"
-  heading: "Clothing that doesn't shout, but whispers."
+  eyebrow: Our DNA
+  heading: Clothing that doesn't shout, but whispers.
   paragraphs:
-    - "In a world that seems to be growing louder, the need for calm, clarity, and depth increases. The modern man craves simplicity — not only visible but also tangible and wearable. Indigold was born from this movement — a brand that combines craftsmanship, elegance, and authenticity with an urban, cosmopolitan flair."
-    - "Indigold is a Dutch brand through and through — considered, understated, built with intention. Every piece is chosen for quality, comfort and durability, so it becomes part of his everyday, not just his wardrobe."
-  quote: "Colour speaks in silence. Character shows in every shade."
-  image: "assets/img/portrait_foliage.jpg"
-  image_alt: "Indigold FW26 model portrait among greenery, wearing a knitted vest"
-  image_tag: "FW26 · Portrait"
-
+    - In a world that seems to be growing louder, the need for calm, clarity, and depth increases. The modern man craves simplicity — not only visible but also tangible and wearable. Indigold was born from this movement — a brand that combines craftsmanship, elegance, and authenticity with an urban, cosmopolitan flair.
+    - Indigold is a Dutch brand through and through — considered, understated, built with intention. Every piece is chosen for quality, comfort and durability, so it becomes part of his everyday, not just his wardrobe.
+  quote: Colour speaks in silence. Character shows in every shade.
+  image: assets/img/portrait_foliage.jpg
+  image_alt: Indigold FW26 model portrait among greenery, wearing a knitted vest
+  image_tag: FW26 · Portrait
 values:
-  - num: "01"
-    label: "Masculine"
-  - num: "02"
-    label: "Urban"
-  - num: "03"
-    label: "Sophisticated"
-  - num: "04"
-    label: "Sustainable"
-  - num: "05"
-    label: "Simplicity"
-  - num: "06"
-    label: "Quality"
-
+  - num: '01'
+    label: Masculine
+  - num: '02'
+    label: Urban
+  - num: '03'
+    label: Sophisticated
+  - num: '04'
+    label: Sustainable
+  - num: '05'
+    label: Simplicity
+  - num: '06'
+    label: Quality
 gallery:
-  eyebrow: "FW26 Campaign"
-  heading: "The Season in Frame"
-  intro: "Shot across city streets, cafés and markets — the visual world of the new collection, ready for your B2B assets and in-store storytelling."
+  eyebrow: FW26 Campaign
+  heading: The Season in Frame
+  intro: Shot across city streets, cafés and markets — the visual world of the new collection, ready for your B2B assets and in-store storytelling.
   items:
-    - image: "assets/img/hero_park.jpg"
-      alt: "Model seen from behind wearing a graphic tee in a city park"
-      caption: "City Park / Look 01"
-      size: "wide"
+    - image: assets/img/hero_park.jpg
+      alt: Model seen from behind wearing a graphic tee in a city park
+      caption: City Park / Look 01
+      size: wide
       focal_x: 50
       focal_y: 50
-    - image: "assets/img/street_duo.jpg"
-      alt: "Two models talking on a city street outside a café terrace"
-      caption: "Street Style / Look 04"
-      size: "normal"
+    - image: assets/img/street_duo.jpg
+      alt: Two models talking on a city street outside a café terrace
+      caption: Street Style / Look 04
+      size: normal
       focal_x: 50
       focal_y: 30
-    - image: "assets/img/cafe_espresso.jpg"
-      alt: "Model drinking espresso at a café bar"
-      caption: "Café / Look 06"
-      size: "normal"
+    - image: assets/img/cafe_espresso.jpg
+      alt: Model drinking espresso at a café bar
+      caption: Café / Look 06
+      size: normal
       focal_x: 50
       focal_y: 30
-    - image: "assets/img/market_scene.jpg"
-      alt: "Model carrying a net shopping bag at an outdoor market"
-      caption: "Market / Look 08"
-      size: "normal"
+    - image: assets/img/market_scene.jpg
+      alt: Model carrying a net shopping bag at an outdoor market
+      caption: Market / Look 08
+      size: normal
       focal_x: 50
       focal_y: 25
-    - image: "assets/img/interior_polo.jpg"
-      alt: "Model in a knitted polo sweater inside a wood-panelled interior"
-      caption: "Interior / Look 10"
-      size: "normal"
+    - image: assets/img/interior_polo.jpg
+      alt: Model in a knitted polo sweater inside a wood-panelled interior
+      caption: Interior / Look 10
+      size: normal
       focal_x: 50
       focal_y: 20
-    - image: "assets/img/record_shop.jpg"
-      alt: "Model browsing vinyl records in a city record shop"
-      caption: "Record Shop / Look 12"
-      size: "normal"
+    - image: assets/img/record_shop.jpg
+      alt: Model browsing vinyl records in a city record shop
+      caption: Record Shop / Look 12
+      size: normal
       focal_x: 50
       focal_y: 35
-    - image: "assets/img/portrait_foliage.jpg"
-      alt: "Indigold FW26 model portrait among greenery, wearing a knitted vest"
-      caption: "Portrait / Look 02"
-      size: "normal"
+    - image: assets/img/portrait_foliage.jpg
+      alt: Indigold FW26 model portrait among greenery, wearing a knitted vest
+      caption: Portrait / Look 02
+      size: normal
       focal_x: 50
       focal_y: 20
-    - type: "video"
-      youtube_id: "YpKWq82M2Vs"
-      alt: "Indigold — brand film"
-      caption: "Indigold Brand Film"
-      size: "wide"
-
+    - type: video
+      youtube_id: YpKWq82M2Vs
+      alt: Indigold — brand film
+      caption: Indigold Brand Film
+      size: wide
 stats:
-  - prefix: ""
-    value: "35+"
-    label: "Target Audience Age"
-  - prefix: ""
-    value: "NL"
-    label: "Dutch Craftsmanship"
-  - prefix: ""
-    value: "6"
-    label: "Core Brand Values"
-  - prefix: ""
-    value: "FW26"
-    label: "Launch Collection"
-
+  - prefix: ''
+    value: 35+
+    label: Target Audience Age
+  - prefix: ''
+    value: NL
+    label: Dutch Craftsmanship
+  - prefix: ''
+    value: '6'
+    label: Core Brand Values
+  - prefix: ''
+    value: FW26
+    label: Launch Collection
 cta:
-  eyebrow: "FW26 · Introducing Indigold"
-  heading: "Let's plan your FW26 order."
-  text: "Reach out to your regional account manager or send us a message — we'll get your B2B preview access and order forms sorted."
+  eyebrow: FW26 · Introducing Indigold
+  heading: Let's plan your FW26 order.
+  text: Reach out to your regional account manager or send us a message — we'll get your B2B preview access and order forms sorted.
