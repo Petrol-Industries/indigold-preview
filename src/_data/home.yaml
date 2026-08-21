@@ -40,7 +40,7 @@ gallery:
   heading: The Season in Frame
   intro: Shot across city streets, cafés and markets — the visual world of the new collection, ready for your B2B assets and in-store storytelling.
   items:
-    - image: assets/img/hero_park.jpg
+    - image: assets/img/hero_park_gallery.jpg
       alt: Model seen from behind wearing a graphic tee in a city park
       caption: City Park / Look 01
       size: wide
@@ -76,7 +76,7 @@ gallery:
       size: normal
       focal_x: 50
       focal_y: 35
-    - image: assets/img/portrait_foliage.jpg
+    - image: assets/img/portrait_foliage_gallery.jpg
       alt: Indigold FW26 model portrait among greenery, wearing a knitted vest
       caption: Portrait / Look 02
       size: normal
