@@ -27,11 +27,6 @@ groups:
         email: Tdeckers@petrolindustries.com
         phone_display: +31 6 27 47 95 29
         phone_tel: '+31627479529'
-      - region: Tilburg
-        name: Teun
-        email: teun@petrolindustries.com
-        phone_display: '0612750856'
-        phone_tel: ''
   - label: International
     people:
       - region: Belgium
