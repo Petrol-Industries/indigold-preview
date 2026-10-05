@@ -3,7 +3,7 @@ brand:
   tagline: "Crafted · The Wardrobe That Fits"
 
 access:
-  enabled: true
+  enabled: false
   password: "Indigoldss27"
 
 footer:
